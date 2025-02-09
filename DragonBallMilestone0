@@ -6,7 +6,7 @@
     "age": 45,
     "isActive": true,
     "birthDate": "737-04-16",
-    "imageUrl": "https://example.com/goku.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Son0V/Milestone0DragonBall/refs/heads/main/goku.jpg",
     "race": "Saiyan",
     "techniques": ["Kamehameha", "Spirit Bomb", "Instant Transmission"],
     "gear": {
