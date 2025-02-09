@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "armor": "Orange Gi",
+    "weapon": "Power Pole",
+    "accessories": ["Senzu Bean", "Potara Earring"],
+    "powerLevel": 9000000000,
+    "imageUrl": "https://example.com/goku_gear.jpg"
+  },
+  {
+    "id": 102,
+    "armor": "Saiyan Battle Armor",
+    "weapon": "None",
+    "accessories": ["Scouter", "Gravity Room"],
+    "powerLevel": 8500000000,
+    "imageUrl": "https://example.com/vegeta_gear.jpg"
+  },
+  {
+    "id": 103,
+    "armor": "Purple Gi",
+    "weapon": "Z Sword",
+    "accessories": ["Piccolo's Cape", "Senzu Bean"],
+    "powerLevel": 7000000000,
+    "imageUrl": "https://example.com/gohan_gear.jpg"
+  }
+]
