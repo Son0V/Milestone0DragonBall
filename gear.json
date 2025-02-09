@@ -5,7 +5,7 @@
     "weapon": "Power Pole",
     "accessories": ["Senzu Bean", "Flying Nimbus"],
     "powerLevel": 9000000000,
-    "imageUrl": "https://example.com/goku_gear.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Son0V/Milestone0DragonBall/refs/heads/main/gokugear.png"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "weapon": "None",
     "accessories": ["Scouter", "Gravity Room"],
     "powerLevel": 8500000000,
-    "imageUrl": "https://example.com/vegeta_gear.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Son0V/Milestone0DragonBall/refs/heads/main/vegetagear.png"
   },
   {
     "id": 103,
@@ -21,6 +21,6 @@
     "weapon": "Z Sword",
     "accessories": ["Piccolo's Cape", "Senzu Bean"],
     "powerLevel": 7000000000,
-    "imageUrl": "https://example.com/gohan_gear.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Son0V/Milestone0DragonBall/refs/heads/main/gohangear.jpg"
   }
 ]
