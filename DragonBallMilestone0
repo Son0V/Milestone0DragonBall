@@ -25,7 +25,7 @@
     "age": 48,
     "isActive": true,
     "birthDate": "732-08-14",
-    "imageUrl": "https://example.com/vegeta.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Son0V/Milestone0DragonBall/refs/heads/main/vegeta.jpg",
     "race": "Saiyan",
     "techniques": ["Final Flash", "Big Bang Attack", "Galick Gun"],
     "gear": {
@@ -44,7 +44,7 @@
     "age": 35,
     "isActive": true,
     "birthDate": "757-05-18",
-    "imageUrl": "https://example.com/gohan.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Son0V/Milestone0DragonBall/refs/heads/main/gohan.png",
     "race": "Half-Saiyan",
     "techniques": ["Masenko", "Kamehameha", "Ultimate Form"],
     "gear": {
