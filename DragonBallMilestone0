@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Goku",
+    "description": "A Saiyan warrior who defends Earth with his immense strength and pure heart.",
+    "age": 45,
+    "isActive": true,
+    "birthDate": "737-04-16",
+    "imageUrl": "https://example.com/goku.jpg",
+    "race": "Saiyan",
+    "techniques": ["Kamehameha", "Spirit Bomb", "Instant Transmission"],
+    "gear": {
+      "id": 101,
+      "armor": "Orange Gi",
+      "weapon": "Power Pole",
+      "accessories": ["Senzu Bean", "Potara Earring"],
+      "powerLevel": 9000000000,
+      "imageUrl": "https://example.com/goku_gear.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vegeta",
+    "description": "The proud Prince of all Saiyans, constantly striving to surpass Goku.",
+    "age": 48,
+    "isActive": true,
+    "birthDate": "732-08-14",
+    "imageUrl": "https://example.com/vegeta.jpg",
+    "race": "Saiyan",
+    "techniques": ["Final Flash", "Big Bang Attack", "Galick Gun"],
+    "gear": {
+      "id": 102,
+      "armor": "Saiyan Battle Armor",
+      "weapon": "None",
+      "accessories": ["Scouter", "Gravity Room"],
+      "powerLevel": 8500000000,
+      "imageUrl": "https://example.com/vegeta_gear.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Gohan",
+    "description": "Son of Goku, a hybrid Saiyan with incredible potential.",
+    "age": 35,
+    "isActive": true,
+    "birthDate": "757-05-18",
+    "imageUrl": "https://example.com/gohan.jpg",
+    "race": "Half-Saiyan",
+    "techniques": ["Masenko", "Kamehameha", "Ultimate Form"],
+    "gear": {
+      "id": 103,
+      "armor": "Purple Gi",
+      "weapon": "Z Sword",
+      "accessories": ["Piccolo's Cape", "Senzu Bean"],
+      "powerLevel": 7000000000,
+      "imageUrl": "https://example.com/gohan_gear.jpg"
+    }
+  }
+]
